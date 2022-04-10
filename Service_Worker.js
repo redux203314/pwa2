@@ -5,11 +5,10 @@ const CACHE_NAME = 'WebDeveloper',
     './',
     './index.html',
     './css/bootstrap.min.css',
+    './portfolio-details.html',
     './css/home.css',
-
     './js/bootstrap.bundle.min.js',
     './js/jquery-3.6.0.js',
-
     './regist_serviceWorker.js',
     './pwa/images/icons/icon-512x512.png',
     './pwa/images/icons/icon-72x72.png'
